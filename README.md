@@ -1,4 +1,4 @@
-# OIBSIP-DataAnalystics-L1-EDARetailSales-
+# OIBSIP-DataAnalystics-Task1-EDARetailSales-
 # 📊 Exploratory Data Analysis (EDA) on Retail Sales Data
 
 ## 📌 Project Overview
